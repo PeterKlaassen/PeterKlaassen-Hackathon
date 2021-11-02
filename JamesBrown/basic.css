@@ -1,0 +1,13 @@
+.container > div {
+  color: #ffffff;
+  display: flex;
+  justify-content: center;
+}
+
+html, body {
+  box-sizing: border-box;
+  height: 100%;
+  margin: 0px;
+  padding: 5px;
+}
+
