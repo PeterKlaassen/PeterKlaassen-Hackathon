@@ -1,3 +1,3 @@
 # PeterKlaassen-Hackathon
 Opdracht Winc eindopdracht
-Grid en flexbox
+Grid en Flexbox
